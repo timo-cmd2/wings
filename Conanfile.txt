@@ -1,0 +1,2 @@
+[requires]
+libuv/1.41.0
